@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Dodoi´s Renhold AS]]></title>
         <description><![CDATA[Dodoi´s Renhold AS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dodoi-s-renhold-as/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 11:48:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 11:52:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dodoi-s-renhold-as/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedcc99bced-615f-4af0-90ee-11bf0ea5126c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de697490-6902-4390-893e-78295d9f8f27.jpg">]]></description>
+            <link>https://thegrid.ai/dodoi-s-renhold-as/cc99bced-615f-4af0-90ee-11bf0ea5126c/index.html</link>
             <guid isPermaLink="false">cc99bced-615f-4af0-90ee-11bf0ea5126c</guid>
-            <pubDate>Mon, 29 Feb 2016 11:48:37 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 11:52:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
